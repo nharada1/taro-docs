@@ -5,7 +5,7 @@ authors: [cwu, nharada]
 tags: [webapp]
 ---
 
-We are thrilled to announce the beta release of Taro AI -- autocomplete for arborists! We've been hard at work for the past few months to bring Taro AI to life, and we're stoked to share it with you. From here on out we'll be providing updates on our progress and roadmap. We'll be providing [release notes](/release-log) on new features and improvements when we make major updates.
+We are thrilled to announce the beta release of Taro AI -- autocomplete for arborists! We've been hard at work for the past few months to bring Taro AI to life, and we're stoked to share it with you. From here on out we'll be providing updates on our progress and roadmap. We'll be providing [release notes](/) on new features and improvements when we make major updates.
 
 :::tip
 
