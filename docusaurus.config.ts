@@ -33,10 +33,6 @@ const config: Config = {
     [
       'classic',
       {
-        docs: {
-          sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-        },
         blog: {
           showReadingTime: true,
           feedOptions: {
@@ -65,7 +61,7 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
-        {to: '/release-log', label: 'Release Log', position: 'left'},
+        {to: '/', label: 'Release Log', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://app.taroai.com',
@@ -77,15 +73,6 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial (Coming Soon)',
-              to: '/',
-            },
-          ],
-        },
         {
           title: 'Community',
           items: [
@@ -108,7 +95,7 @@ const config: Config = {
             },
             {
               label: 'Release Log',
-              to: '/release-log',
+              to: '/',
             },
             {
               label: 'GitHub',
@@ -130,7 +117,7 @@ const config: Config = {
       '@docusaurus/plugin-content-blog',
       {
         id: 'second-blog',
-        routeBasePath: 'release-log',
+        routeBasePath: '/',
         path: './release-log',
       },
     ],
