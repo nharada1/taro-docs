@@ -18,8 +18,8 @@ By popular demand! Create and name polygon areas on the map, and export just the
     ![Area Selection](polygons.webp)
 </div>
 
-## 💽 Per-Site Layouts
-A bit of a behind the scenes change, but Taro now supports arbitrary site setups. Want to use a different health scoring system? Want to specify how each DBH was measured? Need to add a "has bees" option for dangerous site? Pick whatever layout you want when creating a site, and if you want a layout that isn't listed we'll create a new one for you!
+## 💽 Customized Site Surveys
+A bit of a behind the scenes change, but Taro AI now supports customized survey forms for each site. Want to use a different health scoring system? Want to specify how each DBH was measured? Need to add a "has bees" option for dangerous site? Pick whatever layout you want when creating a site, and if you want a layout that isn't listed we'll create a new one for you!
 
 ## 🌵 Multi-stem DBH
 No more writing multi-stem information in the comments! The multi-stem DBH field accepts both single-stem and multi-stem measurements.
