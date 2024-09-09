@@ -16,7 +16,7 @@ A few things you can do with this in addition to the default map layer:
 
 * Need to make sure you took a photo of every tree before you leave the site? Use the "Missing Images" layer to show all trees that don't have an image in red.
 * Need to make a map for a report showing unhealthy trees? Use the "Unhealthy Trees" layer to show all trees that are in poor health.
-* Need to show the location of trees that are scheduled to be removed? Use the "Trees to Remove" layer to show all trees that are scheduled to be removed.
+* Need to send a map to a client showing the location of trees that need removal? Use the "Trees to Remove" layer to show all trees scheduled for removal in red.
 
 In addition to different map layers, you can also overlay text on each tree. Use this to display tree IDs, DBH, or any other property on the map.
 
