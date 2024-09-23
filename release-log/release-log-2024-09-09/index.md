@@ -4,7 +4,7 @@ title: Release Log - September 9, 2024
 tags: [release]
 ---
 
-## The Map Layer Update
+## 🌎 The Map Layer Update
 
 Displaying your data in different ways can help both on the job site and in the office. We've added a variety of map layers to help you visualize your data. The map icon in the top left corner now opens a menu where you can select both how the trees appear as well as the text that overlays them.
 
